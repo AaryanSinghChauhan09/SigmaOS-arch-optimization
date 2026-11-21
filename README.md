@@ -1,6 +1,6 @@
-# SigmaOS-arch-optimization
+# SigmaOS-optimization
 
-SigmaOS SigmaOS-arch-optimization component
+SigmaOS SigmaOS-optimization component
 
 - **Category:** Components
 - **Engine:** component

@@ -1,4 +1,4 @@
-use arch_optimization::Component;
+use sigmaos_optimization::Component;
 
 #[test]
 fn test_component_new_aaa() {

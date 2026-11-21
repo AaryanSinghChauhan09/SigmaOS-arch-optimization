@@ -1,10 +1,10 @@
 [package]
-name = "arch-optimization"
+name = "sigmaos-optimization"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-optimization component - SigmaOS component"
+description = "SigmaOS SigmaOS-optimization component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-optimization"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-optimization"
 
 [dependencies]
 thiserror = "2"
